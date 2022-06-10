@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-pricing-dev-154350-authRole",
+      "UnauthRoleArn": "arn:aws:iam::822651364052:role/amplify-pricing-dev-154350-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::822651364052:role/amplify-pricing-dev-154350-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-pricing-dev-154350-deployment",
+      "UnauthRoleName": "amplify-pricing-dev-154350-unauthRole",
+      "StackName": "amplify-pricing-dev-154350",
+      "StackId": "arn:aws:cloudformation:us-east-1:822651364052:stack/amplify-pricing-dev-154350/46519e50-e8ed-11ec-9384-0ede29332469",
+      "AmplifyAppId": "d3n2hp4i4qv7ij"
+    }
+  }
+}
